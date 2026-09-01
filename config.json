@@ -1,7 +1,7 @@
 [
   {
-    "name": "Database1",
-    "supabase_url": "https://your-project-id-1.supabase.co",
+    "name": "elitopus",
+    "supabase_url": "https://ydrwckrvdltduuiuknef.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
   }
